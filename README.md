@@ -18,7 +18,9 @@ The agent can perceive two things: Breeze and Stench.
     
 --- 
     
+## Files:  
 run.py is a python program that uses propositional logic sentences to check which rooms are safe. The inference is drawn using the DPLL algorithm. 
+Agent.py implements the various functions that the Agent can perform.
     
 --- 
     
@@ -28,4 +30,9 @@ Assumed that there will always be a safe path that the agent can take to exit th
    
 ---
     
-DPLL Algorithm from : Artificial Intelligence A Modern Approach Third Edition by Stuart Russell and Peter Norvig.
+##Thanks: 
+    
+Dr. Sujith Thomas for having this as an assignment in Artificial Intelligence CS F407, Fall 2020, BITS Pilani.   
+DPLL Algorithm from : Artificial Intelligence A Modern Approach Third Edition by Stuart Russell and Peter Norvig.   
+
+     
