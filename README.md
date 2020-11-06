@@ -3,7 +3,7 @@ A program that simulates an agent's behaviour in a wumpus world that has exactly
 
 The figure below shows a Wumpus world containing one pit and one Wumpus. 
 
-![World Image](https://github.com/richidubey/Solving-Wumpus-World-Problem-using-Artificial-Intelligence/blob/master/world.png?raw=true)
+![World Image](https://github.com/richidubey/Solving-Wumpus-World-Problem-using-Artificial-Intelligence/blob/main/world.png)
 
 There is an agent in room [1,1]. The goal of the agent is to exit the Wumpus world alive. The agent can exit the Wumpus world by reaching room [4,4].  
 --- 
@@ -22,4 +22,4 @@ Assume that there will always be a safe path that the agent can take to exit the
    
    
 ---
-DPLL ALgorithm from : Artificial Intelligence A Modern Approach Third Edition by Stuart Russell and Peter Norvig.
+DPLL Algorithm from : Artificial Intelligence A Modern Approach Third Edition by Stuart Russell and Peter Norvig.
