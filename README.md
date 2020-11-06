@@ -30,7 +30,7 @@ Assumed that there will always be a safe path that the agent can take to exit th
    
 ---
     
-##Thanks: 
+## Thanks: 
     
 Dr. Sujith Thomas for having this as an assignment in Artificial Intelligence CS F407, Fall 2020, BITS Pilani.   
 DPLL Algorithm from : Artificial Intelligence A Modern Approach Third Edition by Stuart Russell and Peter Norvig.   
