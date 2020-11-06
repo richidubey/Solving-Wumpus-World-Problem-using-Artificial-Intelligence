@@ -19,7 +19,7 @@ The agent can perceive two things: Breeze and Stench.
 --- 
     
 ## Files:  
-run.py is a python program that uses propositional logic sentences to check which rooms are safe. The inference is drawn using the DPLL algorithm. 
+run.py is a python program that uses propositional logic sentences to check which rooms are safe. The inference is drawn using the DPLL algorithm.   
 Agent.py implements the various functions that the Agent can perform.
     
 --- 
